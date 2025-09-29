@@ -22,7 +22,10 @@ If you have questions, please contact your instructor early!
 ## My Updates
 
 I changed the following...
- - List your
- - changes here!
- - ...
+ - Removed "/" on Bucky Image tag
+ - Added Alt text for bucky image
+ - Changed background color from brown to white
+ - Fixed navigation bar in other pages
+ - Removed random </p> tag
+ - 
 
