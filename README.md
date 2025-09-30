@@ -26,7 +26,7 @@ I changed the following...
    - Removed "/" on Bucky Image tag
    - Added Alt text for bucky image
    - Removed hidden class
-   - Changed <h3> to <h6 class="display-1">Blog</h6> for the "About me" to be uniform with other pages
+   - Changed "h3" to "h6 class="display-1" page name /h6" for the "About me" to be uniform with other pages
   
  - In my-work.html
    - Changed naming convention for images from "tech-desk" to "tech_desk"
