@@ -22,10 +22,31 @@ If you have questions, please contact your instructor early!
 ## My Updates
 
 I changed the following...
- - Removed "/" on Bucky Image tag
- - Added Alt text for bucky image
- - Changed background color from brown to white
- - Fixed navigation bar in other pages
- - Removed random </p> tag
- - 
+ - In the index.html page
+   - Removed "/" on Bucky Image tag
+   - Added Alt text for bucky image
+   - Removed hidden class
+   - Changed <h3> to <h6 class="display-1">Blog</h6> for the "About me" to be uniform with other pages
+  
+ - In my-work.html
+   - Changed naming convention for images from "tech-desk" to "tech_desk"
+   - Added images into an images folder for organizational purposes
+   - Added alternate text for the images and gave size dimensions
+   - Changed headings for both titles
+   - Changed Column size from col-4 to col 6 for more space to read
+  
+ - In blog.html
+   - Removed left allign code from "Back to campus again" portion to make uniform with the rest of the page
+   - Changed the the colors from Green, Yellow, Red to Dark Orange, Navy, Forest Green to comply with ADA regulations
+ 
+ - In the CSS Styles Page
+   - Changed background color from brown to white
+   - Text style change to "Times New Roman"
+   - Changed font size from 14 to 20
+ 
+ - On all Pages
+   - Fixed navigation bar in other pages
+   - Organized the links so its uniform across all pages
+   - Removed random </p> tag
+  
 
