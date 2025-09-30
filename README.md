@@ -47,6 +47,6 @@ I changed the following...
  - On all Pages
    - Fixed navigation bar in other pages
    - Organized the links so its uniform across all pages
-   - Removed random </p> tag
+   - Removed random "</p>" tag
   
 
