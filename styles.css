@@ -1,7 +1,7 @@
 body {
     font-size: 14px; 
     background-color: #ffffff; /* Low contrast background color */
-    font-family: 'Brush Script MT', cursive, sans-serif; /* Non-standard font */
+    font-family: "Times New Roman", Georgia, serif; /* Non-standard font */
 }
 a {
     color: #333;
